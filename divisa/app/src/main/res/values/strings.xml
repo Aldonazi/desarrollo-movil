@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="hint_input">Ingresa cantidad</string>
+    <string name="convert_to_dollar">Convertir a Dólares</string>
+    <string name="convert_to_peso">Convertir a Pesos</string>
+    <string name="default_result">Resultado:</string>
+    <string name="result_text">Resultado: %.2f %s</string>
+    <string name="invalid_input">Entrada no válida</string>
+</resources>
